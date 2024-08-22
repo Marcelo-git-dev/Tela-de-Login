@@ -131,13 +131,11 @@ input[type=submit] {
     background-color: #d8a311;
     color: #FFFFFF;
     margin-top: 15px ;
-    width: 70%;
-    font-size: 2em;
-    height: 45px;
+    width: 100%;
+    font-size: 1.5em;
+    height: 30px;
     box-shadow: 0px 0px 5px black;
     border-radius: 5%;
-    -webkit-transform: scale(0.5);
-    transform: scale(0.5);
 }
 
 input[type=text], [type=password]{
@@ -147,9 +145,8 @@ input[type=text], [type=password]{
 }
 
 input[type=submit]:hover {
-    -webkit-transform: scale(0.6);
-    transform: scale(0.6);
-    
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 input[type=submit]:active {
@@ -163,9 +160,6 @@ footer{
     bottom: 0;
     p{
         font-size: 0.8em
-        a{
-            
-        }
     }
     text
 }
