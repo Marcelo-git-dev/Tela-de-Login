@@ -72,12 +72,13 @@
                     
             ?>
             <input type="submit" value="Enviar">
+            <div>
+                <p>Ainda não possui cadastro? <a href="cadastro.php">Cadastrar</a></p>
+            </div>
         </form>
     </main>
     <footer>
-        <div>
-            <p>Ainda não possui cadastro? <a href="cadastro.php">Cadastrar</a></p>
-        </div>
+        
         <nav class="Redes">
             <div>
                 <a href="https://api.whatsapp.com/send?phone=+5531991311579&text=Ol%C3%A1%2C+Como+vai%3F%0AEspero+que+bem%21%0A%0AGostaria+de+falar+com+voc%C3%AA..." target="_blank"><img class="redes" src="img_login/icon-whatsapp.png" alt="Whatsapp"></a>

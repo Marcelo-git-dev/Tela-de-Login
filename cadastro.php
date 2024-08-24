@@ -25,5 +25,11 @@
         <div id="logout">
             <a href="logout.php"><img src="img_login/logout.png" alt=""></a>
         </div>
-    </header>   
+    </header>
+    <main>
+        <form action="" method="post">
+            <label for="Nome">Digite seu nome:</label>
+            
+        </form>
+    </main>   
 </body>
